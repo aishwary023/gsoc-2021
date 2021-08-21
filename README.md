@@ -40,6 +40,8 @@ Sr No. | PR                                                 | Status
 13|[oppia/oppia#13334](https://github.com/oppia/oppia/pull/13334)| Merged ✅
 
 ## Milestone 2
+Covered **1216** during Milestone 2.
+
 Sr No. | PR                                                 | Status
 -------|----------------------------------------------------|-------------
 1|[oppia/oppia#13418](https://github.com/oppia/oppia/pull/13069)| Merged ✅
