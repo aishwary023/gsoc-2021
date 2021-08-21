@@ -58,7 +58,7 @@ Sr No. | PR                                                 | Status
 - ✅ Created 24 PRs, covering **3001**/3207 lines
 - 📝 Added guidelines to write robust unit tests in the wiki
 - 🔨 Fixed flakes as they were discovered during the course of GSoC
-- 🧐 Reviewd fellow GSoCers pull requests
+- 🧐 Reviewed fellow GSoCers pull requests
 
 ## After GSoC
 The code coverage was as follows after GSoC:
