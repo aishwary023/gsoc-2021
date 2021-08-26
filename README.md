@@ -1,4 +1,5 @@
 # GSoC '21 @ Oppia
+![oppia_gsoc](https://user-images.githubusercontent.com/26626415/131044965-a73c2df3-cdc7-4242-9465-b30b572c2a05.jpeg)
 
 ## Oppia
 Oppia is platform which provides a novel and engaging approach to online learning for underprivileged children around the world. Oppia is specially designed to meet the unique needs of the under-resourced children.
