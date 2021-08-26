@@ -12,7 +12,7 @@ The code coverage was as follows before the begining of GSoC:
 ![image](https://user-images.githubusercontent.com/26626415/130315810-8d782dff-baa1-47ec-aba2-ddf5f59881f9.png)
 
 ## Before Milestone 1
-Before milestone 1 began, I created 2 PRs which were extensively reviewd by [@sealip](https://github.com/seanlip), [@kevintab95](https://github.com/kevintab95), and [@nithusha21](https://github.com/nithusha21). You can see the 2 practice PRs and the extensive code review done by the mentors here:
+Before milestone 1 began, I created 2 PRs which were extensively reviewd by [@seanlip](https://github.com/seanlip), [@kevintab95](https://github.com/kevintab95), and [@nithusha21](https://github.com/nithusha21). You can see the 2 practice PRs and the extensive code review done by the mentors here:
 
 Sr No. | PR                                                 | Status
 -------|----------------------------------------------------|-------------
